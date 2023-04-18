@@ -31,7 +31,7 @@ PHP版本；5.6
 
 #后台管理可一键清除泛目录缓存HTML文件
 
-演示地址： http://bd.msoso.vip
+演示地址： http://bd.zhiyun666.xyz
 
 
 获取源码请加QQ号
