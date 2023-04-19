@@ -67,4 +67,4 @@ zhihu(知乎热榜) weibo(微博热搜) baidu(百度热点) history(历史上的
 示例；访问你的域名地址/hotlist.php?type=zhihu
 
 
-有问题请加QQ群号；912034500
+有问题请加QQ群号；463032683
