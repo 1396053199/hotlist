@@ -33,6 +33,8 @@ PHP版本；5.6
 
 演示地址： http://bd.zhiyun666.xyz
 
+更多其他源码；https://zhiyun66.github.io/htm/
+
 
 获取源码请加QQ号
 
